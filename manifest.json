@@ -9,7 +9,7 @@
       "matches": ["*://*/*"],
       "all_frames": true,
       "js":["dont.js"],
-      "run_at":"document_start",
+      "run_at":"document_end",
       "world": "MAIN"
     }
   ]
